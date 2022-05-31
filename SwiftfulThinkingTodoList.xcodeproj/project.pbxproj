@@ -11,6 +11,8 @@
 		46CAE1F928469E1300C0853C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1F828469E1300C0853C /* ContentView.swift */; };
 		46CAE1FB28469E1500C0853C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE1FA28469E1500C0853C /* Assets.xcassets */; };
 		46CAE1FE28469E1500C0853C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE1FD28469E1500C0853C /* Preview Assets.xcassets */; };
+		46CAE20628469E6C00C0853C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE20428469E6C00C0853C /* README.md */; };
+		46CAE20728469E6C00C0853C /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE20528469E6C00C0853C /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		46CAE1F828469E1300C0853C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		46CAE1FA28469E1500C0853C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46CAE1FD28469E1500C0853C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		46CAE20428469E6C00C0853C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		46CAE20528469E6C00C0853C /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +55,8 @@
 		46CAE1F528469E1300C0853C /* SwiftfulThinkingTodoList */ = {
 			isa = PBXGroup;
 			children = (
+				46CAE20528469E6C00C0853C /* LICENSE.txt */,
+				46CAE20428469E6C00C0853C /* README.md */,
 				46CAE1F628469E1300C0853C /* SwiftfulThinkingTodoListApp.swift */,
 				46CAE1F828469E1300C0853C /* ContentView.swift */,
 				46CAE1FA28469E1500C0853C /* Assets.xcassets */,
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46CAE20728469E6C00C0853C /* LICENSE.txt in Resources */,
+				46CAE20628469E6C00C0853C /* README.md in Resources */,
 				46CAE1FE28469E1500C0853C /* Preview Assets.xcassets in Resources */,
 				46CAE1FB28469E1500C0853C /* Assets.xcassets in Resources */,
 			);
