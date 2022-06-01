@@ -7,11 +7,22 @@
 
 import SwiftUI
 
+/*
+ MVVM Architecture
+ 
+ Model - data point
+ View - UI
+ ViewModel - manages Model for View
+ */
+
 @main
 struct SwiftfulThinkingTodoListApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // We have the navigationView here because we want the entire app to be inside a navigationView
+            NavigationView {
+                ListView()
+            }
         }
     }
 }
