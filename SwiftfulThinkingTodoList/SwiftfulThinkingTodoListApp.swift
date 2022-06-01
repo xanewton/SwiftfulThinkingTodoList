@@ -17,12 +17,16 @@ import SwiftUI
 
 @main
 struct SwiftfulThinkingTodoListApp: App {
+    
+    @StateObject var listViewModel: ListViewModel = ListViewModel()
+    
     var body: some Scene {
         WindowGroup {
             // We have the navigationView here because we want the entire app to be inside a navigationView
             NavigationView {
                 ListView()
             }
+            .environmentObject(listViewModel)
         }
     }
 }
