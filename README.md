@@ -2,9 +2,9 @@
 
 [SwiftUI Todo list (Beginner level)](https://www.youtube.com/playlist?list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i)  
 
-![Scheme](/readmeImages/img1.png)
-![Scheme](/readmeImages/img2.png)
-![Scheme](/readmeImages/img3.png)
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-01at09.33.13.png)
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-01at09.33.40.png)
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-01at09.34.22.png)
 
 A to-do list app using SwiftUI with a MVVM architecture pattern. It uses UserDefaults to save and persist data between sessions.
 From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
@@ -13,8 +13,8 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 ## Notes 
 - It should work for iOS13
 
-- Status: Bootcamp #4
-  https://www.youtube.com/watch?v=nwpmWu1SP1k&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=4 <-- Status
+- Status: Bootcamp #5
+  https://www.youtube.com/watch?v=1QOLiELlpGk&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=5 <-- Status
 
 
 
