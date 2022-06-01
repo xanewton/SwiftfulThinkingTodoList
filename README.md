@@ -11,7 +11,7 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 
 
 ## Notes 
-- It should work for iOS13
+- It should work for iOS14
 
 - Status: Bootcamp #5
   https://www.youtube.com/watch?v=1QOLiELlpGk&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=5 <-- Status
