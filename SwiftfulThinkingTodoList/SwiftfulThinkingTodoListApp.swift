@@ -26,6 +26,7 @@ struct SwiftfulThinkingTodoListApp: App {
             NavigationView {
                 ListView()
             }
+            .navigationViewStyle(StackNavigationViewStyle()) // we use only one view on top of each other
             .environmentObject(listViewModel)
         }
     }

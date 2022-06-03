@@ -13,8 +13,8 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 ## Notes 
 - It should work for iOS14
 
-- Status: Bootcamp #7
-  https://www.youtube.com/watch?v=1QOLiELlpGk&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=7 <-- Status
+- Status: Bootcamp #8
+  https://www.youtube.com/watch?v=3CasiUiJPVo&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=8 <-- Status
 
 
 
