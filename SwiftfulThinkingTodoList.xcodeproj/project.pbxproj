@@ -12,6 +12,7 @@
 		46545E832846E33E0068A37C /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46545E822846E33E0068A37C /* AddView.swift */; };
 		4665C05128478A7C004B9380 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4665C05028478A7C004B9380 /* ItemModel.swift */; };
 		4665C054284795C2004B9380 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4665C053284795C2004B9380 /* ListViewModel.swift */; };
+		4680B2CA2849BFC200069289 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4680B2C92849BFC200069289 /* NoItemsView.swift */; };
 		46CAE1F728469E1300C0853C /* SwiftfulThinkingTodoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1F628469E1300C0853C /* SwiftfulThinkingTodoListApp.swift */; };
 		46CAE1FB28469E1500C0853C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE1FA28469E1500C0853C /* Assets.xcassets */; };
 		46CAE1FE28469E1500C0853C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE1FD28469E1500C0853C /* Preview Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		46545E822846E33E0068A37C /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		4665C05028478A7C004B9380 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		4665C053284795C2004B9380 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		4680B2C92849BFC200069289 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		46CAE1F328469E1300C0853C /* SwiftfulThinkingTodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingTodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46CAE1F628469E1300C0853C /* SwiftfulThinkingTodoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingTodoListApp.swift; sourceTree = "<group>"; };
 		46CAE1FA28469E1500C0853C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 				46545E7E2846DABC0068A37C /* ListView.swift */,
 				46545E802846E12E0068A37C /* ListRowView.swift */,
 				46545E822846E33E0068A37C /* AddView.swift */,
+				4680B2C92849BFC200069289 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				4665C054284795C2004B9380 /* ListViewModel.swift in Sources */,
 				46CAE1F728469E1300C0853C /* SwiftfulThinkingTodoListApp.swift in Sources */,
 				46545E7F2846DABC0068A37C /* ListView.swift in Sources */,
+				4680B2CA2849BFC200069289 /* NoItemsView.swift in Sources */,
 				46545E812846E12E0068A37C /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
